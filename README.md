@@ -22,4 +22,4 @@ ensure GasPumpBarriers
 | Subscription-based  | No                         |
 | Contains:           | Barriers for Sandy & Panorama gas   |
 | Requirements        | None                       |
-| Support             | https://discord.gg/https://discord.gg/mxcu8Az8XG    |
+| Support             | https://discord.gg/mxcu8Az8XG    |
