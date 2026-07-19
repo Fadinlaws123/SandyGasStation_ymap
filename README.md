@@ -1,25 +1,74 @@
-# How to Install
+<div align="center">
 
-1. *Download the zipped file where the resources are located.*
-2. *Navigate to your \resources diectory (Or wherever you are wanting to put it)*
-3. *Drag and drop the folder into the directory you chose.*
-4. *Add these lines into your server.cfg:*
-```
-# Gas Station yMaps
+# ⛽ Sandy Gas Station Barriers
+
+### A lightweight FiveM YMAP that adds protective barriers around selected gas stations.
+
+<p>
+  <a href="https://simpledevelopments.org/store"><img src="https://img.shields.io/badge/Explore_Our_Store-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://discord.gg/RquDVTfDwu"><img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/Fadinlaws123/SandyGasStation_ymap"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FiveM-YMAP-FF6B35?style=flat-square&logo=fivem&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dependencies-None-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Release_Ready-238636?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Fadinlaws123/SandyGasStation_ymap?style=flat-square&logo=github&label=Stars" />
+</p>
+
+</div>
+
+---
+
+## 📖 About
+
+This YMAP adds protective barriers around the gas stations near **Marina Drive / Alhambra Drive** and **Panorama Drive** in Sandy Shores.
+
+The barriers help reduce vehicles accidentally or intentionally driving directly into the pumps, which can be especially useful during pursuits and other high-speed roleplay situations.
+
+---
+
+## ✨ Features
+
+- Adds barriers around selected Sandy Shores gas stations
+- Helps protect fuel pump areas from vehicle traffic
+- Lightweight map-only resource
+- No framework required
+- No additional dependencies
+
+---
+
+## 📥 Installation
+
+1. Download and extract the resource.
+2. Place the resource folder in your FiveM server's resources directory.
+3. Add the following to your `server.cfg`:
+
+```cfg
 ensure GasPumpBarriers
 ```
-5. *Restart your server and you're good to go!*
 
-# What does this do?
-* *What this basically does is add barriers to both Sandy Gas Station, cross of Marina Drive and Alhambra Drive and also adds them to the gas station on Panorama Drive. I found this to be a nice thing to have as it limits people's ability to just... ram a gas station and explode, especially when it's during a police chase.*
+4. Restart the resource or server.
 
+> If you rename the resource folder, update the `ensure` line to match the new folder name.
 
-* ***I know that this ymap is pretty much anywhere online, but I was never able to find them, so I just decided to make one myself. Yes it's not very creative, but I decided to make it so people didn't have to waste so much time searching and searching for something so simple.***
+---
 
-|                     |                            |
-|---------------------|----------------------------|
-| ymap?               | Yes                        |
-| Subscription-based  | No                         |
-| Contains:           | Barriers for Sandy & Panorama gas   |
-| Requirements        | None                       |
-| Support             | https://discord.gg/mxcu8Az8XG    |
+## 📋 Requirements
+
+- FiveM server
+- No framework required
+- No additional dependencies
+
+---
+
+## 🌐 SimpleDevelopments
+
+This map resource is maintained by **SimpleDevelopments** as a simple quality-of-life addition for FiveM roleplay servers.
+
+<div align="center">
+
+### Keep it Simple. Keep it SimpleDevelopments.
+
+</div>
